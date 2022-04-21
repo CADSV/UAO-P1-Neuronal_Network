@@ -19,12 +19,9 @@ Esta red neuronal fue hecha como proyecto para el curso de Redes Neuronales y De
 Para ejecutar la red neuronal se deben seguir los siguientes pasos:
 1. Clonar el presente repositorio para poder descargar los archivos
 2. Ingresar al sitio web de [Google Colab](https://colab.research.google.com/).
-3. En él aparecerá la siguiente ventana, y nos iremos la última opción denominada **Subir**, en donde seleccionaremos el archivo llamado `Proyecto1_RNA_Carlos_Doffiny_SV.ipynb`  
-<p align="center"><img src="https://i.imgur.com/LJ5tLin.png"/></p> 
-4. Una vez que se haya cargado el código, deberemos hacer click arriba a la derecha en donde dice **Conectar** para que así poder utilizar los recursos gratuitos en la nube que ofrece Google Colab. 
-<p align="center"><img src="https://i.imgur.com/CrnoRdh.png"/></p> 
-5. Cuando ya aparezcan dos barras de RAM y Disco en donde anteriormente decía conectado,  seleccionaremos en la barra lateral de la izquierda **Archivos** y subiremos el archivo llamado `Data_Proyecto_RNA.xlsx`. 
-<p align="center"><img src="https://i.imgur.com/C6pUBC6.png"/></p> 
+3. En él aparecerá la siguiente ventana, y nos iremos la última opción denominada **Subir**, en donde seleccionaremos el archivo llamado `Proyecto1_RNA_Carlos_Doffiny_SV.ipynb`  <p align="center"><img src="https://i.imgur.com/LJ5tLin.png"/></p> 
+4. Una vez que se haya cargado el código, deberemos hacer click arriba a la derecha en donde dice **Conectar** para que así poder utilizar los recursos gratuitos en la nube que ofrece Google Colab. <p align="center"><img src="https://i.imgur.com/CrnoRdh.png"/></p> 
+5. Cuando ya aparezcan dos barras de RAM y Disco en donde anteriormente decía conectado,  seleccionaremos en la barra lateral de la izquierda **Archivos** y subiremos el archivo llamado `Data_Proyecto_RNA.xlsx`. <p align="center"><img src="https://i.imgur.com/C6pUBC6.png"/></p> 
 6. Por último, solo quedaría ejecutar el código, presionando las teclas `Ctrl + F9` o en el menú superior seleccionar la opción de **Entorno de Ejecución** y luego **Ejecutar todas**
 
 ## Consideraciones especiales
