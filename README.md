@@ -1,8 +1,8 @@
 # UAO-P1-Neuronal_Network
 ****
 
-##Descripción
-_Este documento explica qué problema resuelve la red neuronal y cómo ejecutarla
+## Descripción
+_Este documento explica qué problema resuelve la red neuronal y cómo ejecutarla_
 
 ## ¿Qué contiene este repositorio?
 Este repositorio contiene 3 archivos que son:
