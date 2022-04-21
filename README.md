@@ -1,4 +1,5 @@
-# UAO-P1-Neuronal_Network
+# UAO-Project1-Neuronal_Network
+Red Neuronal para la predicción de los resultados de una empresa brasileña de logística. Esto fue desarrollado como primer proyecto de la asignatura de Redes Neuronales Artificiales y Deep Learning en la Universidad Autónoma de Occidente.
 ****
 
 ## Descripción
