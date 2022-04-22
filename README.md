@@ -30,8 +30,14 @@ Para ejecutar la red neuronal se deben seguir los siguientes pasos:
 2. Si quieren cambiar, modificar o agregar cualquier parámetro o función nueva a la red, deberán seleccionar en el menú superior la opcion de **Entorno de Ejecución** y luego **Reiniciar y Ejecutar todo**
 3. Antes de ejecutar la primera vez el código, ya estarán precargados los resultados de la última ejecución realizada antes de subir el código a este repo.
 
-## Problemas
-En caso de presentar algún tipo de problema con el código o data set, por favor revisen los Issues o pueden crear uno sin problema.
+## Contribuciones
+Formar una comunidad activa en donde todos podamos aprender y crecer juntos en nuestras jornadas de programación es muy gratificante, por lo cual cualquier contribución es muy apreciada. 
+Si tienes alguna sugerencia para mejorar esto, por favor bifurca este repositorio y crea un pull request, o crea un issue con el tag `enhacement`
 
+## Problemas y ayudas
+En caso de presentar algún tipo de problema con el código, el data set o necesitar alguna ayuda para resolver una duda, por favor revisen los issues para ver si alguien anteriormente tuvo la misma duda, y sino, pueden crear uno nuevo sin problema.
+
+****
+Programemos para hacer del mundo un mejor lugar :)
 
 
